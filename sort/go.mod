@@ -1,4 +1,4 @@
-module valpere/leetcode/sort
+module github.com/valpere/leetcode/sort
 
 go 1.23.3
 
