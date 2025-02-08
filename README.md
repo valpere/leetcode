@@ -1,1 +1,1 @@
-## Helping modules for LeetCode tasks.
+## Helping modules for LeetCode tasks using Go.
